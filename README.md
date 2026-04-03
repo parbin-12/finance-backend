@@ -127,7 +127,7 @@ PORT=3000
 ### 4. Run the server
 
 ```
-npm run dev
+nodemon server.js
 ```
 
 Server will run at:
